@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDad9b49084e332010d7aa62733f4dd651</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>7d470d402f332010542755f62799b6ca</scope_name>
+        <serialized_content>{"FlowDesigner:FDad9b49084e332010d7aa62733f4dd651":{"country":"String","country.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"country\",\"mandatory\":\"false\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"bdd2919b-458c-4c64-ab30-b09dcdf27697\"}"},"loc":"String","loc.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"loc\",\"mandatory\":\"false\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"7603838a-fa74-4843-a965-39c5165f61be\"}"},"hostname":"String","hostname.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"hostname\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"ea86a347-315b-4947-8cb3-2b47ec2aaaad\"}"},"city":"String","city.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"city\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"0a5ab3f4-e43b-4dd7-b2ab-e9a849b48462\"}"},"org":"String","org.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"org\",\"mandatory\":\"false\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"d09335b4-142a-4b04-8045-ee2f25964539\"}"},"timezone":"String","timezone.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"timezone\",\"mandatory\":\"false\",\"order\":\"9\",\"max_length\":\"0\",\"uiUniqueId\":\"51029d30-4c22-4090-83ed-b71909a5d44c\"}"},"ip":"String","ip.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"ip\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"3204075c-280b-4455-84a6-3e0eb012890d\"}"},"postal":"String","postal.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"postal\",\"mandatory\":\"false\",\"order\":\"8\",\"max_length\":\"0\",\"uiUniqueId\":\"728162a6-5646-429c-8897-29064e1880a8\"}"},"readme":"String","readme.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"readme\",\"mandatory\":\"false\",\"order\":\"10\",\"max_length\":\"0\",\"uiUniqueId\":\"969e5760-6fcb-4e96-917e-907a0267a844\"}"},"region":"String","region.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"region\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"8eed5e17-9b71-4dbf-b3e0-f46b79a15721\"}"}},"FlowDesigner:FDad9b49084e332010d7aa62733f4dd651.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"root\",\"mandatory\":\"false\",\"uiUniqueId\":\"fdab4e21-f807-4d48-a661-cf615fdcef51\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDad9b49084e332010d7aa62733f4dd651\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-23 18:46:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a19b49082f332010542755f62799b652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDad9b49084e332010d7aa62733f4dd651</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_94906_ipinfo_spo">7d470d402f332010542755f62799b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">7d470d402f332010542755f62799b6ca</sys_scope>
+        <sys_update_name>sys_complex_object_a19b49082f332010542755f62799b652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-23 18:46:28</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
